@@ -1,0 +1,6 @@
+{
+  "name": "Canlı Sohbet",
+  "description": "Doğal ve samimi Türkçe canlı telefon görüşmesi ve sesli sohbet arkadaşı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Canlı Sohbet</string>
+    <string name="call_connected">Bağlandı</string>
+    <string name="call_ended">Görüşme Sonlandı</string>
+    <string name="call_calling">Aranıyor…</string>
+    <string name="mic_listening">Dinliyorum…</string>
+    <string name="ai_speaking">Konuşuyor…</string>
+    <string name="ai_thinking">Düşünüyor…</string>
+    <string name="press_to_talk">Konuşmak için bas veya dokun</string>
+</resources>
